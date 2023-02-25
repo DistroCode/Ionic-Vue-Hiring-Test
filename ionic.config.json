@@ -1,0 +1,7 @@
+{
+  "name": "mobile-component",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
